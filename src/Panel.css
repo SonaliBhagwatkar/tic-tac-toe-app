@@ -1,0 +1,14 @@
+.status {
+    margin-bottom: 10px;   
+}
+
+.panel-row:after {
+    clear: both;
+    content: "";
+    display: table;    
+}
+
+.main-container {
+    margin-left: 50px;
+    margin-top: 20px;
+}
